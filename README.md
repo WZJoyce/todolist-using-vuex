@@ -1,5 +1,5 @@
 # todolist(using vuex)
-![alt text](https://github.com/WZJoyce/image-library/blob/main/image/todolist.png)
+![alt text](https://github.com/WZJoyce/todolist-using-vuex-/blob/main/todolist.png)
 
 ## Project setup
 ```
