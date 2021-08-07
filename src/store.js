@@ -8,7 +8,7 @@ export default new Vuex.Store({
   state: {
     list: [],
     inputValue: 'aaa',
-    nextId: 5,
+    nextId: 1,
     viewKey: 'all'
   },
   mutations: {
